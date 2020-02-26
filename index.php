@@ -276,76 +276,152 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo verde">
+                    <h3>Módulo 06</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=basico">
+                                Função e Escopo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=argsretorno">
+                                Argumentos e Retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                Desafio Palindromo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=argumentosvariaveis">
+                                Argumentos Variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=argpadrao">
+                                Argumento Padrão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=declarandotipos">
+                                Declaração de tipos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=funcaoanonima">
+                                Função Anônima
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closurecallable">
+                                closure e callable
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=buscarecursiva">
+                                Desafio Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=retornandofuncao">
+                                Retornando função
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=maptitulo">
+                                Map e Título
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo verde">
+                    <h3>Módulo 07</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=desafiodata">
+                                Desafio Data
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=construtordestrutor">
+                                Construtor e Destrutor
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=herança">
+                                Herança
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=visibilidade">
+                                Visibilidade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=membrosestaticos">
+                                Membros estáticos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=interface">
+                                Interface
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=classeabstrata">
+                                Classe abstrata
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=desafioerros">
+                                Desafio Erros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=modificadorfinal">
+                                Modificadores finais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=trait1">
+                                Traits 1
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=trait2">
+                                Traits 2
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=metodosmagicos">
+                                Métodos mágicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=polimorfismo">
+                                Polimorfismo
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo verde">
+                    <h3>Módulo 08</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classe_objeto&file=includes">
+                                Includes
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
-        </div>
-        <div class="modulo verde">
-            <h3>Módulo 06</h3>
-            <ul>
-                <li>
-                    <a href="exercicio.php?dir=array&file=basico">
-                        Função e Escopo
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=argsretorno">
-                        Argumentos e Retorno
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=palindromo">
-                        Desafio Palindromo
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=argumentosvariaveis">
-                        Argumentos Variaveis
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=argpadrao">
-                        Argumento Padrão
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=declarandotipos">
-                        Declaração de tipos
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=funcaoanonima">
-                        Função Anônima
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=closurecallable">
-                        closure e callable
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=recursividade">
-                        Recursividade
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=buscarecursiva">
-                        Desafio Recursividade
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=retornandofuncao">
-                        Retornando função
-                    </a>
-                </li>
-                <li>
-                    <a href="exercicio.php?dir=array&file=maptitulo">
-                        Map e Título
-                    </a>
-                </li>
-            </ul>
-        </div>
-        </nav>
-        </div>
-        </nav>
         </div>
     </main>
     <footer class="rodape">
